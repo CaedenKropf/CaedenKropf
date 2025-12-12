@@ -6,9 +6,9 @@
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caeden%20Kropf-blue?style=flat&logo=linkedin)](https://www.linkedin.com/caedenkropf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caeden%20Kropf-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/caeden-kropf/)
 [![GitHub](https://img.shields.io/badge/GitHub-CaedenKropf-black?style=flat&logo=github)](https://github.com/CaedenKropf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://caedenkropf.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://caedenkropf.com)
 
 ---
 
