@@ -1,4 +1,4 @@
-# Hi, I'm Caeden 👋
+# Hi, I'm Caeden 
 
 🎓 Finance & Business Analytics Student at the **Tippie College of Business, University of Iowa**  
 📊 Aspiring **Finance / Data Analytics / Business Intelligence** professional
